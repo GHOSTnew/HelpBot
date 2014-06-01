@@ -1,0 +1,4 @@
+HelpBot
+=======
+
+simple IRC Bot
